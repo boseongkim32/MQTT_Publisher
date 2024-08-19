@@ -1,4 +1,4 @@
-# MQTT Client
+# MQTT Publisher
 
 A Web interface to bypass TestComplete and publish MQTT messages directly to the broker. Please ensure the laptop that this interface runs on can reach the broker.
 
@@ -23,4 +23,6 @@ These include
 Currently, this MQTT client cannot handle anything other than publishing MQTT messages of the format `route=input`. Thus, the onus of parsing this data properly lies on the client.
 
 ## Screenshots
-# MQTT_Publisher
+
+<img width="1508" alt="Screenshot 2024-08-19 at 1 29 29 PM" src="https://github.com/user-attachments/assets/c08a1bc1-ed59-4488-9164-a989d3a86bbc">
+<img width="1508" alt="Screenshot 2024-08-19 at 1 28 09 PM" src="https://github.com/user-attachments/assets/4ea17461-5eba-47e2-b1be-fdd2c83c7306">
