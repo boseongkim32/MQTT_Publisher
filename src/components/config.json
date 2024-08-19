@@ -1,0 +1,26 @@
+{
+  "functions": [
+    {
+      "id": 1,
+      "function": "message_1",
+      "description": "Set message_1 to a value"
+    },
+    {
+      "id": 2,
+      "function": "set_value",
+      "description": "Set the value to any arbitrary value"
+    },
+    {
+      "id": 3,
+      "function": "send_message",
+      "description": "Send a message to the MQTT broker"
+    }
+  ],
+
+  "topic": "test/1",
+  "hostname": "mqtt.eclipseprojects.io",
+  "port": "80",
+  "clientId": "123123",
+  "username": "",
+  "password": ""
+}
